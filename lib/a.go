@@ -1,3 +1,3 @@
 package lib
 
-var A string
+var A string = "tell me something"
